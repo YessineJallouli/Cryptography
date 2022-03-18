@@ -70,3 +70,7 @@ def main():
     Hill_Cipher_Solver(all_cipher, plain, alphabet)
 
 main()
+
+
+
+# Resource : https://www.nku.edu/~christensen/Section%209%20Hill%20cipher%20cryptanalysis%20new%20examples.pdf
